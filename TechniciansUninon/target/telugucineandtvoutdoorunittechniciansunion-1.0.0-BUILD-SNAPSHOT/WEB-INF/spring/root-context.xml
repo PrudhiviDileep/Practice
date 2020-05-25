@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+	
+	<!-- Root Context: defines shared resources visible to all other web components -->
+		
+	<!-- 
+		
+<bean id="loanService" class="com.telugucineandtvoutdoorunittechniciansunion.service.LoanService"></bean>
+<bean id="loanController" class="com.telugucineandtvoutdoorunittechniciansunion.controller.LoanController"></bean>
+<bean id="loanDAO" class="com.telugucineandtvoutdoorunittechniciansunion.DAO.LoanDAO"></bean>
+		
+		
+		
+	 -->
+	 
+	 <!-- 
+<bean id="loanService" class="com.org.telugucineandtvoutdoorunittechniciansunion.service.LoanService"></bean>	
+<bean id="miscellaneousService" class="com.org.telugucineandtvoutdoorunittechniciansunion.service.MiscellaneousService"></bean>	
+<bean id="appService" class="com.org.telugucineandtvoutdoorunittechniciansunion.service.TeluguCineAndTVOutDoorUnitTechniciansUnionService"></bean>
+<bean id="membershipService" class="com.org.telugucineandtvoutdoorunittechniciansunion.service.MembershipService"></bean>
+<bean id="searchService" class="com.org.telugucineandtvoutdoorunittechniciansunion.service.SearchService"></bean>
+
+<bean id="subscriptionService" class="com.org.telugucineandtvoutdoorunittechniciansunion.service.SubscriptionService"></bean>
+<bean id="loginAuthenticationService" class="com.org.telugucineandtvoutdoorunittechniciansunion.service.LoginAuthenticationService"></bean>
+
+<bean id="loginAuthenticationDAO" class="com.org.telugucineandtvoutdoorunittechniciansunion.DAO.LoginAuthenticationDAO"></bean>
+<bean id="miscellaneousDAO" class="com.org.telugucineandtvoutdoorunittechniciansunion.DAO.MiscellaneousDAO"></bean>
+<bean id="appDAO" class="com.org.telugucineandtvoutdoorunittechniciansunion.DAO.TeluguCineAndTVOutDoorUnitTechniciansUnionDAO"></bean>
+
+<bean id="membershipDAO" class="com.org.telugucineandtvoutdoorunittechniciansunion.DAO.MembershipDAO"></bean>
+<bean id="loanDAO" class="com.org.telugucineandtvoutdoorunittechniciansunion.DAO.LoanDAO"></bean>
+<bean id="searchDAO" class="com.org.telugucineandtvoutdoorunittechniciansunion.DAO.SearchDAO"></bean>
+<bean id="subscriptionDAO" class="com.org.telugucineandtvoutdoorunittechniciansunion.DAO.SubscriptionDAO"></bean>
+ -->	
+<!-- 
+<bean id="httpSession" class="javax.servlet.http.HttpSession"></bean>
+<bean id="miscContext" class="javax.servlet.ServletContext"></bean>
+ -->
+ <!-- 
+<bean id="dataAccess" class="com.org.telugucineandtvoutdoorunittechniciansunion.init.DataAccess"></bean>
+		
+		
+		
+		 -->
+		
+		
+		
+		
+</beans>
